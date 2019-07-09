@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Ganss.Excel;
 
-namespace CompanyTINUpdate
+namespace CompanyUpdate
 {
     public class CompanyUpdateModel
     {

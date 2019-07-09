@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CompanyTINUpdate
+namespace CompanyUpdate
 {
     class CompanyModel
     {
